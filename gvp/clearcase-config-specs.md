@@ -1,0 +1,1 @@
+#Clearcase Configuration Specs

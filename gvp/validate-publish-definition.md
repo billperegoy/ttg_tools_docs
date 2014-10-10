@@ -1,0 +1,1 @@
+What is a Validate vs. a Publish?

@@ -1,0 +1,1 @@
+#Using and Maintaining the Clearcase template file (_cs.tpl)
